@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "custom_items:item/coin" },
+    { "predicate": { "custom_model_data": 2 }, "model": "custom_items:item/bill" },
+    { "predicate": { "custom_model_data": 3 }, "model": "custom_items:item/lottery_ticket_blank" },
+    { "predicate": { "custom_model_data": 4 }, "model": "custom_items:item/lottery_ticket_win1" },
+    { "predicate": { "custom_model_data": 5 }, "model": "custom_items:item/lottery_ticket_win2" },
+    { "predicate": { "custom_model_data": 6 }, "model": "custom_items:item/lottery_ticket_win3" },
+    { "predicate": { "custom_model_data": 7 }, "model": "custom_items:item/lottery_ticket_lost1" },
+    { "predicate": { "custom_model_data": 8 }, "model": "custom_items:item/lottery_ticket_lost2" },
+    { "predicate": { "custom_model_data": 9 }, "model": "custom_items:item/lottery_ticket_lost3" },
+    { "predicate": { "custom_model_data": 10 }, "model": "custom_items:item/lottery_ticket_lost4" },
+    { "predicate": { "custom_model_data": 11 }, "model": "custom_items:item/lottery_ticket_lost5" },
+    { "predicate": { "custom_model_data": 12 }, "model": "custom_items:item/lottery_ticket_lost6" },
+    { "predicate": { "custom_model_data": 13 }, "model": "custom_items:item/lottery_ticket_lost7" },
+    { "predicate": { "custom_model_data": 14 }, "model": "custom_items:item/lottery_ticket_lost8" },
+    { "predicate": { "custom_model_data": 15 }, "model": "custom_items:item/lottery_ticket_lost9" },
+    { "predicate": { "custom_model_data": 16 }, "model": "custom_items:item/lottery_ticket_lost10" },
+    { "predicate": { "custom_model_data": 17 }, "model": "custom_items:item/lottery_ticket_lost11" },
+    { "predicate": { "custom_model_data": 18 }, "model": "custom_items:item/lottery_ticket_lost12" },
+    { "predicate": { "custom_model_data": 19 }, "model": "custom_items:item/lottery_ticket_lost13" },
+    { "predicate": { "custom_model_data": 20 }, "model": "custom_items:item/lottery_ticket_lost14" },
+    { "predicate": { "custom_model_data": 21 }, "model": "custom_items:item/lottery_ticket_lost15" },
+    { "predicate": { "custom_model_data": 22 }, "model": "custom_items:item/lottery_ticket_lost16" },
+    { "predicate": { "custom_model_data": 23 }, "model": "custom_items:item/lottery_ticket_lost17" },
+    { "predicate": { "custom_model_data": 24 }, "model": "custom_items:item/lottery_ticket_lost18" },
+    { "predicate": { "custom_model_data": 25 }, "model": "custom_items:item/lottery_ticket_lost19" },
+    { "predicate": { "custom_model_data": 26 }, "model": "custom_items:item/lottery_ticket_lost20" },
+    { "predicate": { "custom_model_data": 27 }, "model": "custom_items:item/lottery_ticket_lost21" },
+    { "predicate": { "custom_model_data": 28 }, "model": "custom_items:item/lottery_ticket_lost22" },
+    { "predicate": { "custom_model_data": 29 }, "model": "custom_items:item/lottery_ticket_lost23" },
+    { "predicate": { "custom_model_data": 30 }, "model": "custom_items:item/lottery_ticket_lost24" }
+  ]
+}

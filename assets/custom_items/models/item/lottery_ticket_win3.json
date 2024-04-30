@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+	  "layer0": "custom_items:item/lottery_ticket_win3_texture"
+	}
+  }
